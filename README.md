@@ -24,18 +24,18 @@ Beim Einsatz von Managed Switches (wie dem **Netgear GS308E/GS308Ev4**) müssen 
 
 ## Diagnosedaten
 > In den Diagnosedaten sind die VLAN aufgeführt
-{.is-success}
+
 
 ````
 diagnosis _FRITZ.Box_7590_AX_259.08.02_07.10.25_2011.txt
 ````
 
 > In der Datei nach VLAN suchen
-{.is-info}
+
 
 
 > VLAN Internet 360
-{.is-success}
+
 
 ```
 0: name internet (attached, active internet)
@@ -43,7 +43,7 @@ diagnosis _FRITZ.Box_7590_AX_259.08.02_07.10.25_2011.txt
 0: iface net_upstream0 RBE/18/dsl xx:xx:xx:xx:xx:xx stay online 1 vlan 360 prio 0 (prop: default internet) (prop6: default internet)
 ```
 > VLAN VoIP 330
-{.is-success}
+
 
 
 ```
@@ -52,7 +52,7 @@ diagnosis _FRITZ.Box_7590_AX_259.08.02_07.10.25_2011.txt
 1: iface net_upstream0 RBE/18/dsl xx:xx:xx:xx:xx:xx stay online 1 vlan 330 prio 0
 ```
 > VLAN tr069 342
-{.is-success}
+
 ```
 2: name tr069 (attached)
 2: sync_group: sync_ata
