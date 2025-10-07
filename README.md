@@ -1,4 +1,6 @@
 # VLAN
+Erstellt: 07.10.2025
+BIO: Andy
 ## Anleitung: VLAN-Konfiguration der Deutschen Glasfaser (DG) im Heimnetz
 
 Die Nutzung eines eigenen Netzwerks mit VLANs hinter einem Glasfaseranschluss erfordert die korrekte Identifizierung der vom Internetanbieter verwendeten **VLAN-IDs**.
